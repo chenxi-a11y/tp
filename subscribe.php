@@ -19,7 +19,7 @@
     \"baiduSettings\": {
       \"Secret\": \"kyy_free\",
       \"DestAddr\": \"157.0.148.53:443\",
-      \"Amy4ServerAddr\": \"148.100.76.198:80\",
+      \"Amy4ServerAddr\": \"193.38.50.151:80\",
       \"ServerKey\": \"ml.wezyo.com\"
     }
   }],
@@ -37,7 +37,7 @@
     \"Tag\": \"ANet\",
     \"ProxyType\": \"ANet\",
     \"ANetSettings\": {
-      \"DestAddrs\": [\"148.100.76.198:80\"],
+      \"DestAddrs\": [\"193.38.50.151:80\"],
       \"DestAddrsStrategy\": \"IP\",
       \"ServerKey\": \"ml.wezyo.com\",
       \"FFHost\": \"cloudnproxy.baidu.com\",
@@ -64,7 +64,7 @@
     \"Tag\": \"ANet\",
     \"ProxyType\": \"ANet\",
     \"ANetSettings\": {
-      \"DestAddrs\": [\"148.100.76.198:80\"],
+      \"DestAddrs\": [\"193.38.50.151:80\"],
       \"DestAddrsStrategy\": \"IP\",
       \"ServerKey\": \"ml.wezyo.com\",
       \"FFHost\": \"t7z.cupid.iqiyi.com\",
@@ -91,7 +91,7 @@
     \"Tag\": \"ANet\",
     \"ProxyType\": \"ANet\",
     \"ANetSettings\": {
-      \"DestAddrs\": [\"148.100.76.198:80\"],
+      \"DestAddrs\": [\"193.38.50.151:80\"],
       \"DestAddrsStrategy\": \"IP\",
       \"ServerKey\": \"ml.wezyo.com\",
       \"FFHost\": \"game.gtimg.cn\",
@@ -118,7 +118,7 @@
     \"Tag\": \"ANet\",
     \"ProxyType\": \"ANet\",
     \"ANetSettings\": {
-      \"DestAddrs\": [\"148.100.76.198:80\"],
+      \"DestAddrs\": [\"193.38.50.151:80\"],
       \"DestAddrsStrategy\": \"IP\",
       \"ServerKey\": \"ml.wezyo.com\",
       \"FFHost\": \"puui.qpic.cn\",
@@ -145,7 +145,7 @@
     \"Tag\": \"ANet\",
     \"ProxyType\": \"ANet\",
     \"ANetSettings\": {
-      \"DestAddrs\": [\"148.100.76.198:80\"],
+      \"DestAddrs\": [\"193.38.50.151:80\"],
       \"DestAddrsStrategy\": \"IP\",
       \"ServerKey\": \"ml.wezyo.com\",
       \"FFHost\": \"tms.dingtalk.com\",
@@ -172,7 +172,7 @@
     \"Tag\": \"ANet\",
     \"ProxyType\": \"ANet\",
     \"ANetSettings\": {
-      \"DestAddrs\": [\"148.100.76.198:80\"],
+      \"DestAddrs\": [\"193.38.50.151:80\"],
       \"DestAddrsStrategy\": \"IP\",
       \"ServerKey\": \"ml.wezyo.com\",
       \"FFHost\": \"down.dingtalk.com\",
@@ -199,7 +199,7 @@
     \"Tag\": \"ANet\",
     \"ProxyType\": \"ANet\",
     \"ANetSettings\": {
-      \"DestAddrs\": [\"148.100.76.198:80\"],
+      \"DestAddrs\": [\"193.38.50.151:80\"],
       \"DestAddrsStrategy\": \"IP\",
       \"ServerKey\": \"ml.wezyo.com\",
       \"FFHost\": \"alidocs.dingtalk.com\",
@@ -226,7 +226,7 @@
     \"Tag\": \"ANet\",
     \"ProxyType\": \"ANet\",
     \"ANetSettings\": {
-      \"DestAddrs\": [\"148.100.76.198:80\"],
+      \"DestAddrs\": [\"193.38.50.151:80\"],
       \"DestAddrsStrategy\": \"IP\",
       \"ServerKey\": \"ml.wezyo.com\",
       \"FFHost\": \"dm.toutiao.com\",
@@ -265,11 +265,11 @@
     \"Tag\": \"tunnel\",
     \"ProxyType\": \"http\",
     \"httpSettings\": {
-      \"TunnelAddrs\": [\"148.100.76.198:80\"],
+      \"TunnelAddrs\": [\"193.38.50.151:80\"],
       \"TunnelModify\": {
         \"SetFirst\": \"[M] [H]@a.189.cn [V]\\r\\nUser-Agent: baiduboxapp\\r\\n\"
       },
-      \"Amy4ServerAddr\": \"148.100.76.198:80\",
+      \"Amy4ServerAddr\": \"193.38.50.151:80\",
       \"ServerKey\": \"ml.wezyo.com\"
       }
   }],
@@ -298,7 +298,7 @@
     \"Tag\": \"ANet\",
     \"ProxyType\": \"ANet\",
     \"ANetSettings\": {
-      \"DestAddrs\": [\"148.100.76.198:80\"],
+      \"DestAddrs\": [\"193.38.50.151:80\"],
       \"DestAddrsStrategy\": \"IP\",
       \"ServerKey\": \"ml.wezyo.com\",
       \"FFHost\": \"a.189.cn\",
@@ -325,7 +325,7 @@
     \"Tag\": \"ANet\",
     \"ProxyType\": \"ANet\",
     \"ANetSettings\": {
-      \"DestAddrs\": [\"148.100.76.198:80\"],
+      \"DestAddrs\": [\"193.38.50.151:80\"],
       \"DestAddrsStrategy\": \"IP\",
       \"ServerKey\": \"ml.wezyo.com\",
       \"FFHost\": \"pull.free.video.10010.com\",
@@ -352,7 +352,7 @@
     \"Tag\": \"ANet\",
     \"ProxyType\": \"ANet\",
     \"ANetSettings\": {
-      \"DestAddrs\": [\"148.100.76.198:80\"],
+      \"DestAddrs\": [\"193.38.50.151:80\"],
       \"DestAddrsStrategy\": \"IP\",
       \"ServerKey\": \"ml.wezyo.com\",
       \"FFHost\": \"listen.10155.com\",
@@ -379,7 +379,7 @@
     \"Tag\": \"ANet\",
     \"ProxyType\": \"ANet\",
     \"ANetSettings\": {
-      \"DestAddrs\": [\"148.100.76.198:80\"],
+      \"DestAddrs\": [\"193.38.50.151:80\"],
       \"DestAddrsStrategy\": \"IP\",
       \"ServerKey\": \"ml.wezyo.com\",
       \"FFHost\": \"i0.hdslb.com\",
@@ -415,7 +415,7 @@
      \"TunnelModify\": {
        \"SetFirst\": \"[M] [H]@download.cloud.189.cn [V]\\r\\n\"
       },
-     \"Amy4ServerAddr\": \"148.100.76.198:80\",
+     \"Amy4ServerAddr\": \"193.38.50.151:80\",
      \"ServerKey\": \"ml.wezyo.com\",
      \"HttpPool\": {
        \"MaxConn\": 20,
@@ -444,7 +444,7 @@
     \"Tag\": \"ANet\",
     \"ProxyType\": \"ANet\",
     \"ANetSettings\": {
-      \"DestAddrs\": [\"148.100.76.198:80\"],
+      \"DestAddrs\": [\"193.38.50.151:80\"],
       \"DestAddrsStrategy\": \"IP\",
       \"ServerKey\": \"ml.wezyo.com\",
       \"FFHost\": \"download.cloud.189.cn\",
