@@ -166,7 +166,7 @@
 }"},
 {"id":5008,
 "type":"amy",
-"name":"\u5927\u738b\u5361-\u53ef\u6e38\u620f-\u9650\u901f-\u4f4e\u5ef6\u8fdf",
+"name":"\u5927\u738b\u5361-\u53ef\u6e38\u620f\u3001\u770b\u89c6\u9891-\u9650\u901f-\u4f4e\u5ef6\u8fdf",
 "model":"{
   \"Socks5ListenAddr\": \":10800\",
   \"PidFile\": \"amy4.pid\",
@@ -274,7 +274,7 @@
 }"},
 {"id":5012,
 "type":"amy",
-"name":"\u9489\u9489-\u53ef\u6e38\u620f-\u9650\u901f-\u4f4e\u5ef6\u8fdf",
+"name":"\u9489\u9489-\u53ef\u6e38\u620f\u3001\u770b\u89c6\u9891-\u9650\u901f-\u4f4e\u5ef6\u8fdf",
 "model":"{
   \"Socks5ListenAddr\": \":10800\",
   \"PidFile\": \"amy4.pid\",
@@ -328,7 +328,7 @@
 }"},
 {"id":5014,
 "type":"amy",
-"name":"\u5408\u4f5cA-\u53ef\u6e38\u620f-\u9650\u901f-\u4f4e\u5ef6\u8fdf",
+"name":"\u5408\u4f5cA-\u53ef\u6e38\u620f\u3001\u770b\u89c6\u9891-\u9650\u901f-\u4f4e\u5ef6\u8fdf",
 "model":"{
   \"Socks5ListenAddr\": \":10800\",
   \"PidFile\": \"amy4.pid\",
@@ -427,7 +427,7 @@
 }"},
 {"id":5017,
 "type":"amy",
-"name":"\u505c\u673a-\u53ef\u6e38\u620f-\u9650\u901f-\u4f4e\u5ef6\u8fdf",
+"name":"\u505c\u673a-\u53ef\u6e38\u620f\u3001\u770b\u89c6\u9891-\u9650\u901f-\u4f4e\u5ef6\u8fdf",
 "model":"{
   \"Socks5ListenAddr\": \":10800\",
   \"PidFile\": \"amy4.pid\",
@@ -535,7 +535,7 @@
 }"},
 {"id":5021,
 "type":"amy",
-"name":"\u54d4\u54e9\u54d4\u54e9-\u53ef\u6e38\u620f-\u9650\u901f-\u4f4e\u5ef6\u8fdf",
+"name":"\u54d4\u54e9\u54d4\u54e9-\u53ef\u6e38\u620f\u3001\u770b\u89c6\u9891-\u9650\u901f-\u4f4e\u5ef6\u8fdf",
 "model":"{
   \"Socks5ListenAddr\": \":10800\",
   \"PidFile\": \"amy4.pid\",
@@ -627,7 +627,7 @@
 }"},
 {"id":5024,
 "type":"amy",
-"name":"\u5929\u7ffc\u4e91\u76d8-\u53ef\u6e38\u620f-\u9650\u901f-\u4f4e\u5ef6\u8fdf",
+"name":"\u5929\u7ffc\u4e91\u76d8-\u53ef\u6e38\u620f\u3001\u770b\u89c6\u9891-\u9650\u901f-\u4f4e\u5ef6\u8fdf",
 "model":"{
   \"Socks5ListenAddr\": \":10800\",
   \"PidFile\": \"amy4.pid\",
