@@ -2,7 +2,7 @@
 {
 "id":5000,
 "type":"amy",
-"name":"\u4e0d\u5b9a\u65f6\u53d1\u5e03\u65b0\u6a21\u5f0f\uff0c\u5f53\u524d\u4e0a\u4f20\u65f6\u95f4\uff1a2022.11.5\uff0c\u8bb0\u5f97\u6bcf\u5929\u81f3\u5c11\u66f4\u65b0\u4e00\u6b21\u6a21\u5f0f",
+"name":"\u4e0d\u5b9a\u65f6\u53d1\u5e03\u65b0\u6a21\u5f0f\uff0c\u5f53\u524d\u4e0a\u4f20\u65f6\u95f4\uff1a2022.11.7\uff0c\u8bb0\u5f97\u6bcf\u5929\u81f3\u5c11\u66f4\u65b0\u4e00\u6b21\u6a21\u5f0f",
 "model":"\u6bcf\u5929\u4e0d\u5b9a\u65f6\u66f4\u65b0\u6a21\u5f0f\uff0c\u8bf7\u70b9\u4e0a\u65b9\u4e0b\u8f7d\u56fe\u6807\u66f4\u65b0\u6a21\u5f0f\u554a"},
 {"id":5001,
 "type":"amy",
@@ -85,7 +85,7 @@
 }"},
 {"id":5005,
 "type":"amy",
-"name":"\u767e\u5ea6\u76f4\u8fde-\u5907\u7528\u6a21\u5f0f-\u4e0d\u9650\u901f",
+"name":"\u767e\u5ea6\u76f4\u8fde-\u5907\u7528\u6a21\u5f0f-\u4e0d\u9650\u901f-\u6ca1\u7f51\u7528\u8fd9\u4e2a",
 "model":"{
   \"Socks5ListenAddr\": \":10800\",
   \"PidFile\": \"amy4.pid\",
@@ -193,7 +193,7 @@
 }"},
 {"id":5009,
 "type":"amy",
-"name":"\u5927\u738b\u5361-\u5907\u7528\u6a21\u5f0f-\u4e0d\u9650\u901f",
+"name":"\u5927\u738b\u5361-\u5907\u7528\u6a21\u5f0f-\u4e0d\u9650\u901f-\u6ca1\u7f51\u7528\u8fd9\u4e2a",
 "model":"{
   \"Socks5ListenAddr\": \":10800\",
   \"PidFile\": \"amy4.pid\",
@@ -328,7 +328,7 @@
 }"},
 {"id":5014,
 "type":"amy",
-"name":"\u9489\u9489-\u5907\u7528\u6a21\u5f0f-\u4e0d\u9650\u901f",
+"name":"\u9489\u9489-\u5907\u7528\u6a21\u5f0f-\u4e0d\u9650\u901f-\u6ca1\u7f51\u7528\u8fd9\u4e2a",
 "model":"{
   \"Socks5ListenAddr\": \":10800\",
   \"PidFile\": \"amy4.pid\",
@@ -436,7 +436,7 @@
 }"},
 {"id":5017,
 "type":"amy",
-"name":"\u5408\u4f5cA-\u5907\u7528\u6a21\u5f0f-\u4e0d\u9650\u901f",
+"name":"\u5408\u4f5cA-\u5907\u7528\u6a21\u5f0f-\u4e0d\u9650\u901f-\u6ca1\u7f51\u7528\u8fd9\u4e2a",
 "model":"{
   \"Socks5ListenAddr\": \":10800\",
   \"PidFile\": \"amy4.pid\",
@@ -535,7 +535,7 @@
 }"},
 {"id":5020,
 "type":"amy",
-"name":"\u505c\u673a-\u5907\u7528\u6a21\u5f0f-\u4e0d\u9650\u901f",
+"name":"\u505c\u673a-\u5907\u7528\u6a21\u5f0f-\u4e0d\u9650\u901f-\u6ca1\u7f51\u7528\u8fd9\u4e2a",
 "model":"{
   \"Socks5ListenAddr\": \":10800\",
   \"PidFile\": \"amy4.pid\",
@@ -670,7 +670,7 @@
 }"},
 {"id":5025,
 "type":"amy",
-"name":"\u54d4\u54e9\u54d4\u54e9-\u5907\u7528\u6a21\u5f0f-\u4e0d\u9650\u901f",
+"name":"\u54d4\u54e9\u54d4\u54e9-\u5907\u7528\u6a21\u5f0f-\u4e0d\u9650\u901f-\u6ca1\u7f51\u7528\u8fd9\u4e2a",
 "model":"{
   \"Socks5ListenAddr\": \":10800\",
   \"PidFile\": \"amy4.pid\",
@@ -789,7 +789,7 @@
 }"},
 {"id":5029,
 "type":"amy",
-"name":"\u5929\u7ffc\u4e91\u76d8-\u5907\u7528\u6a21\u5f0f-\u4e0d\u9650\u901f",
+"name":"\u5929\u7ffc\u4e91\u76d8-\u5907\u7528\u6a21\u5f0f-\u4e0d\u9650\u901f-\u6ca1\u7f51\u7528\u8fd9\u4e2a",
 "model":"{
   \"Socks5ListenAddr\": \":10800\",
   \"PidFile\": \"amy4.pid\",
