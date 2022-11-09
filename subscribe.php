@@ -95,7 +95,7 @@
     \"Tag\": \"ANet\",
     \"ProxyType\": \"ANet\",
     \"ANetSettings\": {
-      \"DestAddrs\": [\"2.59.62.174:443\"],
+      \"DestAddrs\": [\"69.165.74.168:443\"],
       \"DestAddrsStrategy\": \"IP\",
       \"ServerKey\": \"ml.wezyo.com\",
       \"FFHost\": \"cloudnproxy.baidu.com\",
@@ -203,7 +203,7 @@
     \"Tag\": \"ANet\",
     \"ProxyType\": \"ANet\",
     \"ANetSettings\": {
-      \"DestAddrs\": [\"2.59.62.174:443\"],
+      \"DestAddrs\": [\"69.165.74.168:443\"],
       \"DestAddrsStrategy\": \"IP\",
       \"ServerKey\": \"ml.wezyo.com\",
       \"FFHost\": \"game.gtimg.cn\",
@@ -338,7 +338,7 @@
     \"Tag\": \"ANet\",
     \"ProxyType\": \"ANet\",
     \"ANetSettings\": {
-      \"DestAddrs\": [\"2.59.62.174:443\"],
+      \"DestAddrs\": [\"69.165.74.168:443\"],
       \"DestAddrsStrategy\": \"IP\",
       \"ServerKey\": \"ml.wezyo.com\",
       \"FFHost\": \"tms.dingtalk.com\",
@@ -446,7 +446,7 @@
     \"Tag\": \"ANet\",
     \"ProxyType\": \"ANet\",
     \"ANetSettings\": {
-      \"DestAddrs\": [\"2.59.62.174:443\"],
+      \"DestAddrs\": [\"69.165.74.168:443\"],
       \"DestAddrsStrategy\": \"IP\",
       \"ServerKey\": \"ml.wezyo.com\",
       \"FFHost\": \"dm.toutiao.com\",
@@ -545,7 +545,7 @@
     \"Tag\": \"ANet\",
     \"ProxyType\": \"ANet\",
     \"ANetSettings\": {
-      \"DestAddrs\": [\"2.59.62.174:443\"],
+      \"DestAddrs\": [\"69.165.74.168:443\"],
       \"DestAddrsStrategy\": \"IP\",
       \"ServerKey\": \"ml.wezyo.com\",
       \"FFHost\": \"a.189.cn\",
@@ -680,7 +680,7 @@
     \"Tag\": \"ANet\",
     \"ProxyType\": \"ANet\",
     \"ANetSettings\": {
-      \"DestAddrs\": [\"2.59.62.174:443\"],
+      \"DestAddrs\": [\"69.165.74.168:443\"],
       \"DestAddrsStrategy\": \"IP\",
       \"ServerKey\": \"ml.wezyo.com\",
       \"FFHost\": \"i0.hdslb.com\",
@@ -799,7 +799,7 @@
     \"Tag\": \"ANet\",
     \"ProxyType\": \"ANet\",
     \"ANetSettings\": {
-      \"DestAddrs\": [\"2.59.62.174:443\"],
+      \"DestAddrs\": [\"69.165.74.168:443\"],
       \"DestAddrsStrategy\": \"IP\",
       \"ServerKey\": \"ml.wezyo.com\",
       \"FFHost\": \"download.cloud.189.cn\",
